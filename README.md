@@ -15,7 +15,7 @@ Built around a low-profile staggered columnar layout, the board features all the
 
 ## What makes it special
 
-MartinBoard isn’t your average DIY keyboard. It brings together clean routing, tight ergonomics, and just the right amount of spice. Each half is packed with 18 keys, plus a thumb cluster that actually makes sense. The top of the PCB is graced with a subtle silhouette of a Lockheed Martin jet, turning the whole board into a functional art piece. The goal? Form, function, and flex — all in one.
+MartinBoard isn’t your average DIY keyboard. It brings together clean routing, tight ergonomics, and just the right amount of spice. Each half is packed with 18 keys, plus a thumb cluster that actually makes sense. The top of the PCB is graced with a subtle silhouette of a Lockheed Martin jet, turning the whole board into a functional art piece. The goal? Form, function, and flex  all in one.
 
 
 <img width="986" height="583" alt="image" src="https://github.com/user-attachments/assets/ea891095-b730-4066-88b7-737c1be9a23c" />
@@ -29,7 +29,7 @@ MartinBoard isn’t your average DIY keyboard. It brings together clean routing,
 
 
 
-This board supports hot-swap sockets, per-key RGB (if you're into that), and it plays nice with Pro Micros or other Atmega32u4-based controllers. Firmware? QMK of course. You can remap this thing to do literally whatever you want.
+This board supports hot-swap sockets, per-key RGB (if you're into that), and it plays nice with Pro Micros or other Atmega32u4 based controllers. Firmware? QMK of course. You can remap this thing to do literally whatever you want.
 
 ---
 
