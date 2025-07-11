@@ -43,7 +43,7 @@ Switched gears today and focused on the aesthetics. Like yeah, it’s a keyboard
 
 | Image | Description |
 |-------|-------------|
-| Insert image here | Updated layout with jet art placed on top layer |
+| <img width="785" height="372" alt="image" src="https://github.com/user-attachments/assets/0c862861-69af-4646-b62d-6ee5ba898647" /> | Updated layout with jet art placed on top layer |
 
 *Hours Spent*: 2 hrs
 
@@ -55,7 +55,7 @@ Today was trace spaghetti day. I finally got into routing and it was as cursed a
 
 | Image | Description |
 |-------|-------------|
-| Insert image here | Fully routed PCB with traces running like subway lines |
+| <img width="701" height="387" alt="image" src="https://github.com/user-attachments/assets/0bd9c253-c889-44a9-8a8e-690d9a227e00" /> | Fully routed PCB with traces running like subway lines |
 
 *Hours Spent*: 2.5 hrs
 
@@ -67,7 +67,7 @@ Focused on making things look way more polished today. I wanted the board to not
 
 | Image | Description |
 |-------|-------------|
-| Insert image here | Cleaned up board with final jet outline and via pass-throughs |
+| <img width="846" height="574" alt="Screenshot 2025-07-11 223120" src="https://github.com/user-attachments/assets/6d433de0-0943-4a01-9698-c85a0eda0efe" /> | Cleaned up board with final jet outline and via pass-throughs |
 
 *Hours Spent*: 3 hrs
 
@@ -79,7 +79,7 @@ Shifted everything to Fusion 360 today to model the case and plate. Exported a D
 
 | Image | Description |
 |-------|-------------|
-| Insert image here | 3D model of the case and plate, keycaps placed for vibe-check |
+| <img width="721" height="388" alt="Screenshot 2025-07-11 223309" src="https://github.com/user-attachments/assets/c5470876-659d-428f-90aa-92c09303a464" /> | 3D model of the case and plate, keycaps placed for vibe-check |
 
 *Hours Spent*: 2 hrs
 
@@ -91,7 +91,7 @@ Final push today. Double checked every trace, ran DRC and fixed a few small shor
 
 | Image | Description |
 |-------|-------------|
-| Insert image here | Gerbers exported, preview looks clean and jet is ready for takeoff |
+| <img width="726" height="410" alt="Screenshot 2025-07-11 223325" src="https://github.com/user-attachments/assets/a8c289e1-3984-4310-a9d4-31cb64bc654e" /> | Gerbers exported, preview looks clean and jet is ready for takeoff |
 
 *Hours Spent*: 2.5 hrs
 
