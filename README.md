@@ -4,11 +4,30 @@ MartinBoard is a wild 3x6 split mechanical keyboard project that screams persona
 
 Built around a low-profile staggered columnar layout, the board features all the comfort of a split setup while keeping things compact and punchy. Whether you're a coder, typist, or just someone who likes to build stuff that looks sick on the desk, MartinBoard delivers.
 
+<img width="1043" height="543" alt="image" src="https://github.com/user-attachments/assets/53752ac5-7738-4a7f-ad22-ef16b69d3e6a" />
+
+
+
+
+
+
 ---
 
 ## What makes it special
 
 MartinBoard isn’t your average DIY keyboard. It brings together clean routing, tight ergonomics, and just the right amount of spice. Each half is packed with 18 keys, plus a thumb cluster that actually makes sense. The top of the PCB is graced with a subtle silhouette of a Lockheed Martin jet, turning the whole board into a functional art piece. The goal? Form, function, and flex — all in one.
+
+
+<img width="986" height="583" alt="image" src="https://github.com/user-attachments/assets/ea891095-b730-4066-88b7-737c1be9a23c" />
+
+
+
+
+<img width="846" height="574" alt="image" src="https://github.com/user-attachments/assets/3c092965-ea8b-4601-bb04-5fb9036dbc79" />
+
+
+
+
 
 This board supports hot-swap sockets, per-key RGB (if you're into that), and it plays nice with Pro Micros or other Atmega32u4-based controllers. Firmware? QMK of course. You can remap this thing to do literally whatever you want.
 
@@ -16,30 +35,34 @@ This board supports hot-swap sockets, per-key RGB (if you're into that), and it 
 
 ## Image Gallery
 
-| Image | Description |
-|-------|-------------|
-| ![martinboard-pcb](https://github.com/user-attachments/assets/88661cd2-412c-4648-805d-db5186f68122) | KiCad PCB layout with Lockheed Martin jet art |
 
-| Image | Description |
-|-------|-------------|
-| Insert schematic image here | Electrical schematic (add image when available) |
 
-| Image | Description |
-|-------|-------------|
-| Insert 3D model image here | 3D render with switches and keycaps (add image when available) |
 
----
 
-## Build Folder Contents
+<img width="1026" height="681" alt="image" src="https://github.com/user-attachments/assets/2108ef0b-10f8-46d8-a3a7-dd7181f4024b" />
 
-Here’s what you’ll find in the repo:
 
-- martinboard.kicad_pcb – Complete PCB layout
-- martinboard.sch – Schematic file
-- plate.dxf – Laser cut plate design
-- case_model.stl – Case files for printing or CNC
-- firmware/ – QMK firmware setup for MartinBoard
-- journal.md – Build log and chaos documentation
+
+<img width="721" height="388" alt="image" src="https://github.com/user-attachments/assets/223332ed-5f63-4462-a382-696d6f4445d9" />
+
+
+
+
+<img width="739" height="595" alt="image" src="https://github.com/user-attachments/assets/99b89e63-f914-4422-b4e0-a75ba857b426" />
+
+
+
+
+<img width="773" height="312" alt="image" src="https://github.com/user-attachments/assets/5ef74f21-becf-4b96-936e-2626c1bd9257" />
+
+
+
+
+<img width="663" height="403" alt="image" src="https://github.com/user-attachments/assets/48e2dc0e-cacf-4175-949f-aca7d04f2dcb" />
+
+
+
+
 
 ---
 
