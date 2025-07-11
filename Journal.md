@@ -16,16 +16,16 @@ This doc's the deep dive into the chaotic but fun journey of designing MartinBoa
 
 ## Log - July 5
 
-Kicked off the MartinBoard project today with just vibes and a rough idea. I wanted something that looked different, felt comfy, and had that jet engine personality. Opened KiCad and just started randomly dropping Pro Micro and switch footprints, honestly just to see how chaotic it would look. Layout looked like a toddler placed the keys but it’s fine, it’s a mood board for now. Spent time going through my folder of inspo keyboards, screenshotting anything that looked clean or edgy. Got hyped thinking about the jet logo on the copper layer. Not much wiring today, just kinda placing stuff until it made sense visually. Did try to space out rows evenly but the math wasn’t mathing. Told myself tomorrow I’ll actually measure things. Baby steps.
+Kicked off the MartinBoard project today with just vibes and a rough idea. I wanted something that looked different, felt comfy, and had that jet engine personality. Opened EasyEda and just started randomly dropping Pro Micro and switch footprints, honestly just to see how chaotic it would look. Layout looked like a toddler placed the keys but it’s fine, it’s a mood board for now. Spent time going through my folder of inspo keyboards, screenshotting anything that looked clean or edgy. Got hyped thinking about the jet logo on the copper layer. Not much wiring today, just kinda placing stuff until it made sense visually. Did try to space out rows evenly but the math wasn’t mathing. Told myself tomorrow I’ll actually measure things. Baby steps.
 
 | Image | Description |
 |-------|-------------|
-|                                                               | The absolute mess of an initial layout with unaligned keys and also i thought i will put knob on Top -_- |
+|  <img width="759" height="390" alt="Screenshot 2025-07-11 224224" src="https://github.com/user-attachments/assets/217daa04-7e93-42d8-a039-4b1b57d9eb82" />                                                             | The absolute mess of an initial layout with unaligned keys and also i thought i will put knob on Top -_- |
 
 
-
-
-
+| Image | Description |
+|-------|-------------|
+|<img width="1026" height="681" alt="Screenshot 2025-07-11 223221" src="https://github.com/user-attachments/assets/22d8e49e-c171-4cb6-85b4-89aaf1bd2f9c" /> | Schematic |
 
 
 
@@ -96,3 +96,11 @@ Final push today. Double checked every trace, ran DRC and fixed a few small shor
 *Hours Spent*: 2.5 hrs
 
 ---
+
+
+
+
+
+
+
+
