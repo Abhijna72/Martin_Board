@@ -16,11 +16,22 @@ This doc's the deep dive into the chaotic but fun journey of designing MartinBoa
 
 ## Log - July 5
 
-Kicked off the MartinBoard project today with just vibes and a rough idea. I wanted something that looked different, felt comfy, and had that jet-engine personality. Opened KiCad and just started randomly dropping Pro Micro and switch footprints, honestly just to see how chaotic it would look. Layout looked like a toddler placed the keys but it’s fine, it’s a mood board for now. Spent time going through my folder of inspo keyboards, screenshotting anything that looked clean or edgy. Got hyped thinking about the jet logo on the copper layer. Not much wiring today, just kinda placing stuff until it made sense visually. Did try to space out rows evenly but the math wasn’t mathing. Told myself tomorrow I’ll actually measure things. Baby steps.
+Kicked off the MartinBoard project today with just vibes and a rough idea. I wanted something that looked different, felt comfy, and had that jet engine personality. Opened KiCad and just started randomly dropping Pro Micro and switch footprints, honestly just to see how chaotic it would look. Layout looked like a toddler placed the keys but it’s fine, it’s a mood board for now. Spent time going through my folder of inspo keyboards, screenshotting anything that looked clean or edgy. Got hyped thinking about the jet logo on the copper layer. Not much wiring today, just kinda placing stuff until it made sense visually. Did try to space out rows evenly but the math wasn’t mathing. Told myself tomorrow I’ll actually measure things. Baby steps.
 
 | Image | Description |
 |-------|-------------|
 | Insert image here | The absolute mess of an initial layout with unaligned keys |
+
+
+
+
+
+
+
+
+
+
+
 
 *Hours Spent*: 2 hrs
 
