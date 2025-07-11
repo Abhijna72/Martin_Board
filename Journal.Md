@@ -20,7 +20,7 @@ Kicked off the MartinBoard project today with just vibes and a rough idea. I wan
 
 | Image | Description |
 |-------|-------------|
-| Insert image here | The absolute mess of an initial layout with unaligned keys |
+|                                                               | The absolute mess of an initial layout with unaligned keys and also i thought i will put knob on Top -_- |
 
 
 
