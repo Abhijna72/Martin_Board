@@ -29,7 +29,7 @@ MartinBoard isn’t your average DIY keyboard. It brings together clean routing,
 
 
 
-This board supports hot-swap sockets, per-key RGB (if you're into that), and it plays nice with Pro Micros or other Atmega32u4 based controllers. Firmware? QMK of course. You can remap this thing to do literally whatever you want.
+This board supports hot-swap sockets  and it plays nice with Pro Micros or other Atmega32u4 based controllers. Firmware? QMK of course. You can remap this thing to do literally whatever you want.
 
 ---
 
