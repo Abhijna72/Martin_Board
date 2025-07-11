@@ -1,0 +1,12 @@
+Component,Description,Qty,Source,Unit Price (INR),Total (INR),Unit Price (USD),Total (USD)
+PCB,"Custom Keyboard PCB (Black, HASL)",5,JLCPCB,301.6,1508,3.62,18.1
+Shipping,JLCPCB Standard Shipping (0.8 kg),1,JLCPCB,2295.9,2295.9,27.54,27.54
+Keycaps,Ergonomic Split Keycap Set,1,Neomacro.in,1890,1890,22.6,22.6
+Controller,Pro Micro (USB-C / RP2040 etc.),2,Amazon,725,1450,8.75,17.5
+Switches,Kailh Box Navy (Clicky),42,CosmicByte.in,35,1470,0.42,17.64
+Diodes,1N4148,42,Shaarvi Electronics,2.5,105,0.03,1.26
+Encoders,EC11 Rotary Encoder (Metal Shaft),2,Robu.in,45,90,0.54,1.08
+Knobs,CNC Aluminum Encoder Knob,2,Amazon ,95,190,1.15,2.3
+LEDs,RGB Diffused LEDs,5,Shaarvi Electronics,5,25,0.06,0.3
+,,,,,,,
+ Amount,,,,,,,$128.22
