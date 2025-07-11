@@ -64,6 +64,32 @@ This board supports hot-swap sockets, per-key RGB (if you're into that), and it 
 
 
 
+## BOM
+
+
+
+| Component       | Description                       | Qty   | Source              | Unit Price (INR) | Total (INR) | Unit Price (USD) | Total (USD) |
+| --------------- | --------------------------------- | ----- | ------------------- | ---------------- | ----------- | ---------------- | ----------- |
+| **PCB**         | Custom Keyboard PCB (Black, HASL) | 5     | JLCPCB              | ₹301.60          | ₹1508.00    | \$3.62           | \$18.10     |
+| **Shipping**    | JLCPCB Standard Shipping (0.8 kg) | 1     | JLCPCB              | ₹2295.90         | ₹2295.90    | \$27.54          | \$27.54     |
+| **Keycaps**     | Ergonomic Split Keycap Set        | 1 set | Neomacro.in         | ₹1890.00         | ₹1890.00    | \$22.60          | \$22.60     |
+| **Controller**  | Pro Micro (USB-C / RP2040 etc.)   | 2     | Amazon  | ₹725.00          | ₹1450.00    | \$8.75           | \$17.50     |
+| **Switches**    | Kailh Box Navy (Clicky)           | 42    | CosmicByte.in       | ₹35.00           | ₹1470.00    | \$0.42           | \$17.64     |
+| **Diodes**      | 1N4148                            | 42    | Shaarvi Electronics | ₹2.50            | ₹105.00     | \$0.03           | \$1.26      |
+| **Encoders**    | EC11 Rotary Encoder (Metal Shaft) | 2     | Amazon              | ₹45.00           | ₹90.00      | \$0.54           | \$1.08      |
+| **Knobs**       |  Aluminum Encoder Knob            | 2     | Amazon              | ₹95.00           | ₹190.00     | \$1.15           | \$2.30      |
+| **LEDs**        | RGB Diffused LEDs                 | 5     | Shaarvi Electronics | ₹5.00            | ₹25.00      | \$0.06           | \$0.30      |
+
+
+
+| Currency | Amount       |
+| -------- | ------------ |
+| INR      | ₹11,358.90   |
+| USD      | **\$128.22** |
+
+
+
+
 ---
 
 ## Licensing
