@@ -4,13 +4,13 @@ This doc's the deep dive into the chaotic but fun journey of designing MartinBoa
 
 | Date       | Task Focus              | Hours Spent |
 |------------|-------------------------|-------------|
-| July 5     | Initial layout + ideas  | 2 hrs       |
-| July 6     | Art + switch alignment  | 2 hrs       |
-| July 7     | Traces + diodes         | 2.5 hrs     |
+| July 5     | Initial layout + ideas  | 3 hrs       |
+| July 6     | Art + switch alignment  | 3 hrs       |
+| July 7     | Traces + diodes         | 4 hrs     |
 | July 8     | Styling + polish        | 3 hrs       |
-| July 9     | 3D case & plate design  | 2 hrs       |
+| July 9     | 3D case & plate design  | 5 hrs       |
 | July 10    | Final check + gerbers   | 2.5 hrs     |
-| *Total*  |                         | *14 hrs*  |
+| *Total*  |                         | *21.5 hrs*  |
 
 ---
 
@@ -33,7 +33,7 @@ Kicked off the MartinBoard project today with just vibes and a rough idea. I wan
 
 
 
-*Hours Spent*: 2 hrs
+*Hours Spent*: 3 hrs
 
 ---
 
@@ -45,7 +45,7 @@ Switched gears today and focused on the aesthetics. Like yeah, it’s a keyboard
 |-------|-------------|
 | <img width="785" height="372" alt="image" src="https://github.com/user-attachments/assets/0c862861-69af-4646-b62d-6ee5ba898647" /> | Updated layout with jet art placed on top layer |
 
-*Hours Spent*: 2 hrs
+*Hours Spent*: 3 hrs
 
 ---
 
@@ -57,7 +57,7 @@ Today was trace spaghetti day. I finally got into routing and it was as cursed a
 |-------|-------------|
 | <img width="701" height="387" alt="image" src="https://github.com/user-attachments/assets/0bd9c253-c889-44a9-8a8e-690d9a227e00" /> | Fully routed PCB with traces running like subway lines |
 
-*Hours Spent*: 2.5 hrs
+*Hours Spent*: 4 hrs
 
 ---
 
@@ -81,7 +81,7 @@ Shifted everything to Fusion 360 today to model the case and plate. Exported a D
 |-------|-------------|
 | <img width="721" height="388" alt="Screenshot 2025-07-11 223309" src="https://github.com/user-attachments/assets/c5470876-659d-428f-90aa-92c09303a464" /> | 3D model of the case and plate, keycaps placed for vibe-check |
 
-*Hours Spent*: 2 hrs
+*Hours Spent*: 5 hrs
 
 ---
 
